@@ -14,7 +14,4 @@ Servare is my first public project:
 - [servare-design](https://github.com/dk-1ng/servare-design): the design side,
   with the research, decisions and prototype
 
-Both repos explain how they were built, and AI-assisted commits are marked
-with `Assisted-by:`.
-
 You can find me on [LinkedIn](https://www.linkedin.com/in/gabriel-estevespereira/).
